@@ -1,4 +1,4 @@
-[<img align="left" width="150" height="150" src="https://github.com/CLIMtools/PhenoCLIM/blob/master/www/picture2.png">](https://rstudio.aws.science.psu.edu:3838/aaf11/PhenoCLIM/ "PhenoCLIM")
+[<img align="left" width="140" height="140" src="https://github.com/CLIMtools/PhenoCLIM/blob/master/www/picture2.png">](https://rstudio.aws.science.psu.edu:3838/aaf11/PhenoCLIM/ "PhenoCLIM")
 
 # [PhenoCLIM](https://rstudio.aws.science.psu.edu:3838/aaf11/PhenoCLIM/ "PhenoCLIM")
 [**PhenoCLIM**](https://rstudio.aws.science.psu.edu:3838/aaf11/PhenoCLIM/) (https://rstudio.aws.science.psu.edu:3838/aaf11/PhenoCLIM/)is an SHINY component of [**Arabidopsis CLIMtools**](http://www.personal.psu.edu/sma3/CLIMtools.html) (http://www.personal.psu.edu/sma3/CLIMtools.html) that allows the user to uncover the relationship between interspecific phenotypic variation in Arabidopsis, and its local environment.
@@ -14,4 +14,4 @@ The environmental data compiled in our study is available in the data/ folder. O
 ## [Citation](https://www.nature.com/articles/s41559-018-0754-5)
 **Ferrero-Serrano, Á & Assmann SM.** Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5 (2019)
 
-
+[<img align="left" src="https://github.com/CLIMtools/PhenoCLIM/blob/master/Screen Shot.png">](https://rstudio.aws.science.psu.edu:3838/aaf11/PhenoCLIM/ "PhenoCLIM")
