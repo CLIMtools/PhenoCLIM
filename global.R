@@ -57,11 +57,7 @@ colnames(FULL.val) <-c("lng"="lng", "lat"="lat", "id"="id","name"="name",	"count
                        ####Strauch et. al. PNAS 2015
                        "M216T665",	"M130T666",	"M172T666",
                       
-                      
-                      ####Discard?
-                      
-                       
-                       "Leaf_serr_16",		"LY", 
+                  
                        
                        
                       ######Flowering
