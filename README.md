@@ -6,6 +6,8 @@
 
 [**PhenoCLIM**](https://rstudio.aws.science.psu.edu:3838/aaf11/PhenoCLIM/) allows the inspection of the relationship between the chosen phenotypic variable and the local environment using the [ggvis](https://ggvis.rstudio.com/interactivity.html) package in [SHINY](https://shiny.rstudio.com/). The more than 100 phenotypic variables that can be selected on the map can be compared with any environmental variable that is user-specified; the two variables are displayed with a linear correlation provided based on data for the local environments of each of the phenotyped accessions. We also provide two interactive tabulated databases describing the environmental variables as we do in [**AraCLIM**](https://rstudio.aws.science.psu.edu:3838/aaf11/AraCLIM/), and the phenotypic traits we added to the database, including its details and original refereced. We used the [DT package](https://rstudio.github.io/DT/) in [SHINY](https://shiny.rstudio.com/) to develope these tables.
 
+Please visit the [Assmann lab](http://www.personal.psu.edu/sma3/) to learn about other interesting research topics.
+
 ## [Data availability](https://github.com/CLIMtools/PhenoCLIM/tree/master/data)
 The phenotypic data described here was downloaded from AraPheno [**PhenoCLIM**](https://arapheno.1001genomes.org/). **If you use any of these phenotypic traits, please do not forget to visit the tab describing the phenotypes included in this tool to find the original references, learn more about these phenotypes and cite the appropriate originators of the phenotypic data you used.** For a more detailed description of these, please check the "Description of climate variables" tab, and the SI of [our study](https://www.nature.com/articles/s41559-018-0754-5).
 
