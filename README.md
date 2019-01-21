@@ -6,10 +6,10 @@
 
 [**PhenoCLIM**](https://rstudio.aws.science.psu.edu:3838/aaf11/PhenoCLIM/) allows the inspection of the relationship between the chosen phenotypic variable and the local environment using the ggvis package in SHINY. The more than 100 phenotypic variables that can be selected on the map can be compared with a second environmental variable that is user-specified; the two variables are displayed with a linear correlation provided based on data for the local environments of each of the phenotyped accessions. We also provide two interactive tabulated databases describing the environmental variables as we do in [**AraCLIM**](https://rstudio.aws.science.psu.edu:3838/aaf11/PhenoCLIM/), and the phenotypic traits we added to the database, including its details and original refereced. We used the DT package in SHINY to develope these tables.
 
-## [Data availability](https://github.com/CLIMtools/AraCLIM/tree/master/data)
+## [Data availability](https://github.com/CLIMtools/PhenoCLIM/tree/master/data)
 The phenotypic data described here was downloaded from AraPheno [**PhenoCLIM**](https://arapheno.1001genomes.org/). **If you use any of these phenotypic traits, please do not forget to visit the tab describing the phenotypes included in this tool to find the original references, learn more about these phenotypes and cite the appropriate originators of the data you used.** You can find this information in the "Description of phenotypes tab."
 
-The environmental data compiled in our study is available in the data/ folder. One of the data files contains the data, and the second one contains the description and the source of each of the environmental parameters used. For a more detailed description of these, please check the SI of our study.
+The environmental data compiled in our study is available in the [data/ folder](https://github.com/CLIMtools/PhenoCLIM/tree/master/data). One of the data files contains the data, and the second one contains the description and the source of each of the environmental parameters used. For a more detailed description of these, please check "Description of climate variables" tab, and the SI of our study.
 
 ## [Citation](https://www.nature.com/articles/s41559-018-0754-5)
 **Ferrero-Serrano, Á & Assmann SM.** Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5 (2019)
